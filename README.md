@@ -1,7 +1,19 @@
-Dependencies:
+Install dependencies directly:
+
+if you are using a vertual env use pipenv
 
 ` pip install webdriver-manager `
 
-or if you are using a virtual evn user:
+` pip install selenium `
 
-` pipenv  install webdriver-manager `
+
+Clone this repository
+Run the following if you are using pip
+
+` pip install -r requirements.txt `
+
+Run the following if yo are inse a virtual env
+
+` pipenv install ` 
+
+
