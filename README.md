@@ -1,6 +1,5 @@
 Install dependencies directly:
 
-if you are using a vertual env use pipenv
 
 if you are using a vertual env use pipenv
 
