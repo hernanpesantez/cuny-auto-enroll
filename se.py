@@ -8,7 +8,7 @@
 
 
 # =============be awere that this script will try to register for all your classes that are alredy in your shoping cart========
-#==============you may have to remove if classes that you don't want, and also be nice to other studenys ==============
+#==============you may have to remove the classes  you don't want, and also be nice to other students ==============
 
 
 
